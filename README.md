@@ -1,4 +1,4 @@
-# Vertical Heavy Chain
+# Visual Appearance of Relativistic Objects
 
 Have you ever wondered what objects moving close to the speed of light would look like? This essay will hopefully satisfy your curiosity. Originally written on May 31, 2004.
 
